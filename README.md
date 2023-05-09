@@ -3,8 +3,8 @@
 <br>
 
 <div align="center">
-<img height="170em" width="440em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=guirtds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="170em" width="370em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=guirtds&layout=compact&langs_count=7&theme=dark"/>
+<img height="170em" width="440em" src="https://github-readme-stats.vercel.app/api?username=guirtds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="170em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirtds&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <h3 align="left">Tecnologias que utilizo diariamente:</h3>
