@@ -3,6 +3,8 @@
 <br>
 
 ![guirtds GitHub stats](https://github-readme-stats.vercel.app/api?username=guirtds&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.dark.app/api/top-langs/?username=guirtds)](https://github.com/guirtds/github-readme-stats)
+
 
 ### Tecnologias que eu uso no meu dia
 
