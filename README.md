@@ -1,4 +1,4 @@
-### Olá, eu sou o Guilherme Rocha!
+# Olá, eu sou o Guilherme Rocha!
 
 <br>
 
@@ -7,7 +7,7 @@
 <img height="170em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirtds&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-### Tecnologias que eu uso no meu dia
+<h3 align="left">Tecnologias que utilizo diariamente:</h3>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
