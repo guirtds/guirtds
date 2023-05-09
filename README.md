@@ -1,4 +1,8 @@
-# Olá, eu sou o Guilherme Rocha!
+<h1>Bem-vindo(a) ao meu perfil !🙂</h1>
+
+<p>
+  Eu sou o Guilherme Rocha, um entusiasta e apaixonado por tecnologia, busco constantemente aprimorar meus conhecimentos e habilidades para oferecer soluções cada vez mais eficazes e impactantes para o mercado.
+</p>
 
 <br>
 
